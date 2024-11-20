@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu
 mysql
+postgis/postgis:16-3.5
