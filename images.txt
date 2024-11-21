@@ -1,2 +1,2 @@
 postgis/postgis:16-3.5
-georchestra/geoserver:24.0.2
+kartoza/geoserver:2.25.4
