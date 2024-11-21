@@ -7,3 +7,4 @@ xhofe/alist:latest
 ubuntu
 mysql
 postgis/postgis:16-3.5
+georchestra/geoserver:24.0.2
