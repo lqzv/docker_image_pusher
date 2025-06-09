@@ -1,2 +1,3 @@
 postgis/postgis:16-3.5
 kartoza/geoserver:2.25.3
+garethflowers/svn-server:1.8.1
