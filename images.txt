@@ -3,3 +3,4 @@ kartoza/geoserver:2.25.3
 garethflowers/svn-server:1.8.1
 easysoft/zentao:21.7.1
 nginx:1.28.0
+jenkins/jenkins:2.504.2-lts-jdk17
